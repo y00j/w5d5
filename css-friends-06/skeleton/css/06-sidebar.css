@@ -1,0 +1,10 @@
+/* PHASE 6: Sidebar */
+
+.profile-picture img {
+  position: relative;
+  top: -120px;
+}
+.profile-info {
+  position: relative;
+  top: -120px;
+}
